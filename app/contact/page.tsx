@@ -11,20 +11,20 @@ export default function Contact() {
 
         {/* Email Button */}
         <a
-         href="mailto:sunkara260498@gmail.com"
+         href="mailto:pavankalyanig@gmail.com"
          className="inline-block border border-gray-600 text-gray-200 px-6 py-3 rounded-lg hover:bg-white/10 transition"
         >
         Send Email
         </a>
         {/* Email Text */}
         <p className="text-gray-400 mt-4 text-sm">
-          or email directly at <span className="font-medium">sunkara260498@gmail.com</span>
+          or email directly at <span className="font-medium">pavankalyanig@gmail.com</span>
         </p>
 
         {/* Social Links */}
         <div className="flex justify-center gap-6 mt-6 text-gray-300">
           <a
-            href="https://www.linkedin.com/in/lavanyasunkara/"
+            href="https://www.linkedin.com/in/pavkl/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white"
@@ -33,7 +33,7 @@ export default function Contact() {
           </a>
 
           <a
-            href="https://github.com/lavanyasunkara"
+            href="https://github.com/PavaniKalyani"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white"

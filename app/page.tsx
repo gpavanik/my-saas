@@ -7,11 +7,11 @@ export default function Home() {
       <div className="max-w-4xl w-full text-center flex flex-col gap-6 opacity-0 animate-fadeUp">
 
         <h1 className="text-4xl md:text-5xl font-bold">
-          Lavanya Sunkara
+          Pavani Kalyani G
         </h1>
 
         <p className="text-lg text-gray-400">
-          AI Engineer | Agentic AI, RAG, Streamlit | MS CS @ NJIT
+          Senior Data & AI Engineer | Freelancer | Open Source Contributor
         </p>
 
         {/* Optional navigation buttons */}
